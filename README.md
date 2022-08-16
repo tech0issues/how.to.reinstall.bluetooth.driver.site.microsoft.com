@@ -1,4 +1,4 @@
-# how.to.reinstall bluetooth driver site microsoft.com
+# how to reinstall bluetooth driver site microsoft.com
 
 [![how to reinstall bluetooth driver site microsoft.com](get-detail.png)](https://github.com/tech0issues/how.to.reinstall.bluetooth.driver.site.microsoft.com)
 
