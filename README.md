@@ -1,7 +1,6 @@
 # how to reinstall bluetooth driver site microsoft.com
 
 [![how to reinstall bluetooth driver site microsoft.com](get-detail.png)](https://icncomputer.com/how-to-reinstall-bluetooth-driver-site-microsoft-com/)
-
 Microsoft has a lot of issues and anytime you will find anyone problem regarding os or any other feature updates in Microsoft operating system. There is no proper solution on bing or google to resolve the issues on Microsoft.
 
 So one of my problems is how to reinstall Bluetooth driver site microsoft.com. Let’s talk about this recently I have bought you a windows laptop which cost almost 70000 Indian rupees.
